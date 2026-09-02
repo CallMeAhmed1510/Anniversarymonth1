@@ -9,7 +9,7 @@ import {
 } from 'react'
 import { Music, Pause } from 'lucide-react'
 
-const VIDEO_ID = 'LJRA8UrlqCM'
+const VIDEO_ID = 'LhhZ6SRLics'
 
 declare global {
   interface Window {
